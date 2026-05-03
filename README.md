@@ -1,5 +1,5 @@
 # 💫 About Me:
-✈️ Student Pilot
+✈️ Student Pilot</br>
 📚 B.Sc. Business Information Systems
 
 
