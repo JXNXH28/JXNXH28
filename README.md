@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying
+✈️ Student Pilot
+📚 B.Sc. Business Information Systems
 
 
 # 💻 Tech Stack:
